@@ -43,6 +43,11 @@ select {
     min-height: 2em;
 }
 
+option{
+    background-color: #0a0a23;
+    color: white;
+}
+
 input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
